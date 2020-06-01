@@ -12,6 +12,7 @@ public class Helle {
         System.out.println("helloworld");
         List a = new ArrayList();
         a.add(0, new Object());
+        System.out.println(a);
 
 
     }
